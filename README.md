@@ -37,6 +37,7 @@ Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Windo
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <br/>
+<br/>
 
 ![Wiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiaandev&show_icons=true&theme=gruvbox)
 
