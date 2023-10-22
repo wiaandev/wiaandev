@@ -1,4 +1,4 @@
-# Wiaan Duvenhage
+![](frame2.png)
 ![](https://komarev.com/ghpvc/?username=wiaandev&style=for-the-badge&color=brightgreen)
 
 **`Digital Craftsman (Developer)`**
