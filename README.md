@@ -38,7 +38,7 @@ My cousin introduced me to the life of software development when I was 17 and th
 
 ### My Favourite Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=rust-stash&theme=dark)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=Topdog)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=Topdog&theme=dark)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=MVPStudio-Creative-Agency&theme=dark)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=SerenGuard&theme=dark)]
 
