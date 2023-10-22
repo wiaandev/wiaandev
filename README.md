@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Window, pursuing my career as a full-stack developer. I have created some cool projects from the basic JAM stack to the modern MERN Stack. Take a look around my profile and see all the skills and technologies I have acquired throughout my studies!
+Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Window, pursuing my career as to become a software engineer one day. I have created some cool projects from the basic JAM stack to the modern MERN Stack. Take a look around my profile and see all the skills and technologies I have acquired throughout my studies!
 
 ---
 
