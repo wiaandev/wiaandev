@@ -19,7 +19,6 @@ Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Windo
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="ex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="ex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 
 
 
@@ -35,4 +34,9 @@ Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Windo
  <summary><h3>My Coding Journey</h3></summary>
 My cousin introduced me to the life of software development when I was 17 and the workflow it entailed. I just fell in love with the way that you can type stuff onto a screen and cool things can happen, like websites that can be built, robot arms that could be moved and so much more. I got introduced to HTML when I was in Grade 12 (2018) and that even made me more intrigued to what other things I can do with other technologies. In 2021 I enrolled in a web development degree at The Open Window and I complete my studies in 2023 with a BA in Creative Technologies, specializing in Interactive Development. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+
+### My Favourite Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=rust-stash)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=Topdog)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=MVPStudio-Creative-Agency)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=SerenGuard)]
