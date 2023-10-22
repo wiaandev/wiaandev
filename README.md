@@ -33,6 +33,7 @@ Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Windo
 <details>
  <summary><h3>My Coding Journey</h3></summary>
 My cousin introduced me to the life of software development when I was 17 and the workflow it entailed. I just fell in love with the way that you can type stuff onto a screen and cool things can happen, like websites that can be built, robot arms that could be moved and so much more. I got introduced to HTML when I was in Grade 12 (2018) and that even made me more intrigued to what other things I can do with other technologies. In 2021 I enrolled in a web development degree at The Open Window and I complete my studies in 2023 with a BA in Creative Technologies, specializing in Interactive Development. 
+</details>
 
 
 ### My Favourite Projects
@@ -41,4 +42,4 @@ My cousin introduced me to the life of software development when I was 17 and th
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=MVPStudio-Creative-Agency)]
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiaandev&layout=pie)](https://github.com/wiaandev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiaandev&layout=pie)](https://github.com/wiaandev/rust-stash)
