@@ -1,5 +1,5 @@
 # Wiaan Duvenhage
-![](https://komarev.com/ghpvc/?username=wiaandev)
+![](https://komarev.com/ghpvc/?username=wiaandev&style=for-the-badge)
 
 **`Digital Craftsman (Developer)`**
 
