@@ -42,4 +42,4 @@ My cousin introduced me to the life of software development when I was 17 and th
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiaandev&repo=MVPStudio-Creative-Agency)]
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiaandev&layout=pie)](https://github.com/wiaandev/rust-stash)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiaandev)](https://github.com/anuraghazra/github-readme-stats)
