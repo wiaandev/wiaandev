@@ -1,4 +1,4 @@
-![](https://github.com/wiaandev/frame2.png)
+![](https://github.com/wiaandev/wiaandev/blob/main/Frame%202.png)
 ![](https://komarev.com/ghpvc/?username=wiaandev&style=for-the-badge&color=brightgreen)
 
 **`Digital Craftsman (Developer)`**
