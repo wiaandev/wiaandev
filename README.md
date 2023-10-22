@@ -22,9 +22,6 @@ Hi! My name is Wiaan Duvenhage. I am a web development student at The Open Windo
 
 
 
-
-<hr/>
-
 <br/>
 <br/>
 
